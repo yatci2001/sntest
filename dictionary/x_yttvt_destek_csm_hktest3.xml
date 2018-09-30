@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="hktest3" max_length="40" name="x_yttvt_destek_csm_hktest3" type="collection"/>
+    <element label="hktest3" max_length="40" name="x_yttvt_destek_csm_hktest3" type="collection">
+        <element label="strYNdemo2" max_length="40" name="stryndemo2" type="string"/>
+        <element label="tamsayi demo2 den" max_length="40" name="tamsayi" type="integer"/>
+    </element>
 </database>
