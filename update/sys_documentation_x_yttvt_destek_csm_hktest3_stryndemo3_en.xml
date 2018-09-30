@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="tamsayi" label="tamsayi demo3 ten" language="en" table="x_yttvt_destek_csm_hktest3">
+    <sys_documentation element="stryndemo3" label="strYNdemo3" language="en" table="x_yttvt_destek_csm_hktest3">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>tamsayi</element>
+            <element>stryndemo3</element>
             <help/>
             <hint/>
-            <label>tamsayi demo3 ten</label>
+            <label>strYNdemo3</label>
             <language>en</language>
             <name>x_yttvt_destek_csm_hktest3</name>
-            <plural>tamsayi demo3 tens</plural>
+            <plural>strYNdemo3s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-30 18:53:07</sys_created_on>
-            <sys_id>202d3c3edbb42b00393154f9dc9619c2</sys_id>
+            <sys_created_on>2018-09-30 18:51:21</sys_created_on>
+            <sys_id>579cbcf2dbfce700553a363ffe9619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>tamsayi demo3 ten</sys_name>
+            <sys_name>strYNdemo3</sys_name>
             <sys_package display_value="Destek CSM" source="x_yttvt_destek_csm">9c8223ecdbbc2700024c5cd4dc96196d</sys_package>
             <sys_policy/>
             <sys_scope display_value="Destek CSM">9c8223ecdbbc2700024c5cd4dc96196d</sys_scope>
-            <sys_update_name>sys_documentation_x_yttvt_destek_csm_hktest3_tamsayi_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_yttvt_destek_csm_hktest3_stryndemo3_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-30 18:53:07</sys_updated_on>
+            <sys_updated_on>2018-09-30 18:51:21</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

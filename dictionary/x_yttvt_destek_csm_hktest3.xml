@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="hktest3" max_length="40" name="x_yttvt_destek_csm_hktest3" type="collection">
         <element label="strYNdemo2" max_length="40" name="stryndemo2" type="string"/>
-        <element label="tamsayi demo2 den" max_length="40" name="tamsayi" type="integer"/>
+        <element label="strYNdemo3" max_length="40" name="stryndemo3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="tamsayi demo3 ten" max_length="40" name="tamsayi" type="integer"/>
     </element>
 </database>

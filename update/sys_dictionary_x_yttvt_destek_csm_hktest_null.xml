@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-30 18:43:07</sys_created_on>
-        <sys_id>a2ba74badbb42b00393154f9dc961941</sys_id>
+        <sys_id>749db836dbfce700553a363ffe9619dc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_yttvt_destek_csm_hktest</sys_name>
         <sys_package display_value="Destek CSM" source="x_yttvt_destek_csm">9c8223ecdbbc2700024c5cd4dc96196d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Destek CSM">9c8223ecdbbc2700024c5cd4dc96196d</sys_scope>
-        <sys_update_name>sys_dictionary_x_yttvt_destek_csm_hktest_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-30 18:43:07</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_yttvt_destek_csm_hktest_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-30 18:55:35</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
