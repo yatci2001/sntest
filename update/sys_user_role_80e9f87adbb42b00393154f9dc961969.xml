@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>role for testing</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_yttvt_destek_csm.hktest</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>hktest</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-30 18:39:45</sys_created_on>
+        <sys_id>80e9f87adbb42b00393154f9dc961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_yttvt_destek_csm.hktest</sys_name>
+        <sys_package display_value="Destek CSM" source="x_yttvt_destek_csm">9c8223ecdbbc2700024c5cd4dc96196d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Destek CSM">9c8223ecdbbc2700024c5cd4dc96196d</sys_scope>
+        <sys_update_name>sys_user_role_80e9f87adbb42b00393154f9dc961969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-30 18:39:45</sys_updated_on>
+    </sys_user_role>
+</record_update>
